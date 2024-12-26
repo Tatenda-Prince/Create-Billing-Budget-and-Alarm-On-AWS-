@@ -39,9 +39,13 @@ You are a Cloud SysOps Administrator working for UP THE CHELS TECH. Your manager
 
 Log into your AWS root account, click the root account name on the top right of the Management Console, then click “Account”.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/4db33f47fac54562ff7c083db271868283587324/Images/Screenshot%202024-12-24%20120213.png)
 
 Scroll down to “IAM User and Role Access to Billing Information”, then click “Edit” on the right side. Select “Activate IAM Access”, then click “Update”.
+
+![image alt]() 
+
+
 
 
 
