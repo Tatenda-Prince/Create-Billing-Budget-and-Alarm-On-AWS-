@@ -56,9 +56,16 @@ Scroll up and click “Billing preferences” on the left pane.
 
 Select all the boxes, then type the email you wish to receive alerts when usage is approaching or has exceeded the AWS Free Tier Usage limits.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/70bb6e57f5962a0af69c33eb1ab06698c5871afe/Images/Screenshot%202024-12-26%20114149.png)
 
 Now that we’ve enabled billing access for IAM users and updated billing preferences, we can proceed to actually creating the billing budgets and billing alarms.
+
+
+# Create Billing Budgets with AWS Budgets
+
+Sign into you IAM account, click the IAM account name on the top right of the Management Console, then click “Account”.
+
+![image alt]() 
 
 
 
