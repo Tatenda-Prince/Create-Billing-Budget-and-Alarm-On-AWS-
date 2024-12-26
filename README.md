@@ -69,7 +69,34 @@ Sign into you IAM account, click the IAM account name on the top right of the Ma
 
 Navigate to the left pane, click “Budgets”, then click “Create budget”.
 
+![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/c225df46ce187949fcf6d21b72814fb20698d57d/Images/Screenshot%202024-12-24%20120804.png)
+
+
+For “Budget setup”, we will use a simplified template and select “Monthly cost budget”.
+
 ![image alt]()
+
+
+ive the Budget a name, enter the budget amount, then type in the email address of the recipients to be notified when the threshold is exceeded.
+
+As seen below, the recipients would be notified when spending has reached 85% and also when it reaches 100% or the forecasted spend is expected to reach 100%.
+
+Proceed by clicking “Create budget”.
+
+
+![image alt]()
+
+
+# Success!
+You should now be able to see your newly created billing budget in the Budgets Overview.
+
+![image alt]()
+
+
+
+
+
+
 
 
 
