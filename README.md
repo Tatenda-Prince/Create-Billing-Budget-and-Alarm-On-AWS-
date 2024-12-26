@@ -120,7 +120,7 @@ For configuration actions, select “In alarm”, then select “Create new topi
 Scroll down, click “Next”, then give the alarm a name and description.
 
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/a017501bf9a394fe8e2177029bb237fad8e25820/Images/Screenshot%202024-12-24%20122105.png)
 
 
 Click “Next” again, scroll down, then click “Create alarm”.
