@@ -125,7 +125,7 @@ Scroll down, click “Next”, then give the alarm a name and description.
 
 Click “Next” again, scroll down, then click “Create alarm”.
 
-![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/49976b5782e65b34e9b3e5d57e94b13d3797b381/Images/Screenshot%202024-12-24%20122105.png)
+![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/275be0fb474e6690007ced05e2da72db4351c4d3/Images/Screenshot%202024-12-24%20122810.png)
 
 
 Note — the SNS subscription is pending confirmation. You need to head to the recipients email inbox, open the email you received, then click on the link to confirm your subscription to the SNS topic.
