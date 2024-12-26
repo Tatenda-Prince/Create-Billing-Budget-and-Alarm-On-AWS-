@@ -31,7 +31,7 @@ IAM user with administrator privileges
 
 # Use Case
 
-You are a Cloud SysOps Administrator working for UP THE CHELS TECH. Your manager has informed you of a $10.00 AWS resource monthly spending limit she wants to place on your team’s account. She has tasked you to monitor the spending by tracking costs and has required that she be notified when it reaches a certain threshold before and when the spending limit is hit. You decided to use AWS Budgets, Amazon CloudWatch and Amazon SNS to accomplish this task.
+You are a Cloud SysOps Administrator working for UP THE CHELS TECH. Your manager has informed you of a $5.00 AWS resource monthly spending limit she wants to place on your team’s account. She has tasked you to monitor the spending by tracking costs and has required that she be notified when it reaches a certain threshold before and when the spending limit is hit. You decided to use AWS Budgets, Amazon CloudWatch and Amazon SNS to accomplish this task.
 
 # Pre-Steps
 
@@ -111,11 +111,28 @@ Leave the “Metric” configurations as default, scroll down and choose a stati
 
 ![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/ac8ea797ad1b4d4647bd27155a6c908b6e870760/Images/Screenshot%202024-12-24%20121539.png) 
 
+
 For configuration actions, select “In alarm”, then select “Create new topic” to notify us by email when we exceed our threshold. Give it a descriptive name, enter the email recipient endpoint, then click “Create topic”.
+
+
+![image alt[](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/6462f3259311a6363d386b8f51c8aaf260877227/Images/Screenshot%202024-12-24%20121935.png)
+
+Scroll down, click “Next”, then give the alarm a name and description.
+
 
 ![image alt]()
 
 
+Click “Next” again, scroll down, then click “Create alarm”.
+
+![image alt]()
+
+
+Note — the SNS subscription is pending confirmation. You need to head to the recipients email inbox, open the email you received, then click on the link to confirm your subscription to the SNS topic.
+
+# Success!
+
+our alarm should now be configured and ready to work!
 
 
 
