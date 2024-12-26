@@ -65,7 +65,13 @@ Now that we’ve enabled billing access for IAM users and updated billing prefer
 
 Sign into you IAM account, click the IAM account name on the top right of the Management Console, then click “Account”.
 
-![image alt]() 
+![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/866551cfe9d74af8445c4401914ef677afa21e64/Images/Screenshot%202024-12-24%20120213.png)
+
+Navigate to the left pane, click “Budgets”, then click “Create budget”.
+
+![image alt]()
+
+
 
 
 
