@@ -84,7 +84,7 @@ As seen below, the recipients would be notified when spending has reached 85% an
 Proceed by clicking “Create budget”.
 
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/ebdc4b4a19e9e87fa23fc3ddc96270df10f30e29/Images/Screenshot%202024-12-24%20121019.png)
 
 
 # Success!
