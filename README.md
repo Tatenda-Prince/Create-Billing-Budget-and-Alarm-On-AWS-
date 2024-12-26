@@ -132,7 +132,7 @@ Note — the SNS subscription is pending confirmation. You need to head to the r
 
 # Success!
 
-our alarm should now be configured and ready to work!
+Your alarm should now be configured and ready to work!
 
 
 
