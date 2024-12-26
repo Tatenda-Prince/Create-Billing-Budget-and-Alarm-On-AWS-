@@ -109,7 +109,7 @@ Click “Select metric”, then click “Billing”. Click “Total Estimated Ch
 Leave the “Metric” configurations as default, scroll down and choose a static threshold type. Set conditions whenever estimated charges are “Greater/Equal” and the threshold value to 10 USD, then click “Next”.
 
 
-![image alt]() 
+![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/ac8ea797ad1b4d4647bd27155a6c908b6e870760/Images/Screenshot%202024-12-24%20121539.png) 
 
 For configuration actions, select “In alarm”, then select “Create new topic” to notify us by email when we exceed our threshold. Give it a descriptive name, enter the email recipient endpoint, then click “Create topic”.
 
