@@ -77,7 +77,7 @@ For “Budget setup”, we will use a simplified template and select “Monthly 
 ![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/d5aacaa87cacff0a72a0d19392dde14707e04480/Images/Screenshot%202024-12-24%20121011.png)
 
 
-ive the Budget a name, enter the budget amount, then type in the email address of the recipients to be notified when the threshold is exceeded.
+Give the Budget a name, enter the budget amount, then type in the email address of the recipients to be notified when the threshold is exceeded.
 
 As seen below, the recipients would be notified when spending has reached 85% and also when it reaches 100% or the forecasted spend is expected to reach 100%.
 
