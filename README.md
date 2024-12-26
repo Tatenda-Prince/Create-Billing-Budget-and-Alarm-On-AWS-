@@ -41,9 +41,23 @@ Log into your AWS root account, click the root account name on the top right of 
 
 ![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/4db33f47fac54562ff7c083db271868283587324/Images/Screenshot%202024-12-24%20120213.png)
 
+
 Scroll down to “IAM User and Role Access to Billing Information”, then click “Edit” on the right side. Select “Activate IAM Access”, then click “Update”.
 
+
+![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/b4d64bc5279b5b8e3f3944511d59f134e6b0f032/Images/Screenshot%202024-12-24%20120326.png) 
+
+Now let’s proceed to update our billing preferences.
+
+Scroll up and click “Billing preferences” on the left pane.
+
 ![image alt]() 
+
+
+Select all the boxes, then type the email you wish to receive alerts when usage is approaching or has exceeded the AWS Free Tier Usage limits.
+
+
+
 
 
 
