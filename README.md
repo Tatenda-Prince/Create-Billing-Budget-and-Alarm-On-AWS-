@@ -115,7 +115,7 @@ Leave the “Metric” configurations as default, scroll down and choose a stati
 For configuration actions, select “In alarm”, then select “Create new topic” to notify us by email when we exceed our threshold. Give it a descriptive name, enter the email recipient endpoint, then click “Create topic”.
 
 
-![image alt[](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/6462f3259311a6363d386b8f51c8aaf260877227/Images/Screenshot%202024-12-24%20121935.png)
+![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/6462f3259311a6363d386b8f51c8aaf260877227/Images/Screenshot%202024-12-24%20121935.png)
 
 Scroll down, click “Next”, then give the alarm a name and description.
 
