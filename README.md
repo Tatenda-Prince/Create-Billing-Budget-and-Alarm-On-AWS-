@@ -35,7 +35,7 @@ You are a Cloud SysOps Administrator working for UP THE CHELS TECH. Your manager
 
 # Pre-Steps
 
-# Enable billing access for IAM users and update billing preferences
+## Enable billing access for IAM users and update billing preferences
 
 Log into your AWS root account, click the root account name on the top right of the Management Console, then click “Account”.
 
@@ -61,7 +61,7 @@ Select all the boxes, then type the email you wish to receive alerts when usage 
 Now that we’ve enabled billing access for IAM users and updated billing preferences, we can proceed to actually creating the billing budgets and billing alarms.
 
 
-# Create Billing Budgets with AWS Budgets
+## Create Billing Budgets with AWS Budgets
 
 Sign into you IAM account, click the IAM account name on the top right of the Management Console, then click “Account”.
 
@@ -87,13 +87,13 @@ Proceed by clicking “Create budget”.
 ![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/ebdc4b4a19e9e87fa23fc3ddc96270df10f30e29/Images/Screenshot%202024-12-24%20121019.png)
 
 
-# Success!
+## Success!
 You should now be able to see your newly created billing budget in the Budgets Overview.
 
 ![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/c8b3987a79868b2bbbaee7faa719fc6f62750218/Images/Screenshot%202024-12-24%20121042.png)
 
 
-# Create Billing Alarm with Amazon CloudWatch
+## Create Billing Alarm with Amazon CloudWatch
 
 Navigate to Amazon CloudWatch service in the Management Console, click “Billing” on the left pane, then click “Create alarm”.
 
