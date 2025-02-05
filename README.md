@@ -5,7 +5,7 @@
 
 # Technical Architecture
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Create-Billing-Budget-and-Alarm-On-AWS-/blob/03094d6dfd03b6c775fd9353e5064638ddbddfc8/Images/Screenshot%202025-02-05%20215915.png)
 
 # Intro
 
